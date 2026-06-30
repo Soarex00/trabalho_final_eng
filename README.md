@@ -4,8 +4,6 @@
 
 **Strategy** - padrao comportamental do GoF.
 
-Nome do aluno: _______________________________
-
 ## Objetivo
 
 Este trabalho apresenta o padrao de projeto **Strategy**, explicando o problema que ele resolve, sua estrutura, seus pontos fortes e fracos, alem de exemplos em **JavaScript** com uma solucao sem o padrao e outra usando o padrao.
